@@ -81,7 +81,8 @@ All charts will be saved automatically to the `charts/` folder.
 ## Interactive Dashboard
 
 Explore the full interactive churn analysis dashboard built by Bin Yu and Ummea Salma Hossain:
-🔗 https://public.tableau.com/app/profile/bin.yu4679/viz/4_17760011003540/ChurnIntelligenceDashboard
+
+Link: https://public.tableau.com/app/profile/bin.yu4679/viz/4_17760011003540/ChurnIntelligenceDashboard
 
 ---
 
@@ -129,9 +130,9 @@ Explore the full interactive churn analysis dashboard built by Bin Yu and Ummea 
 All prompts, model inputs/outputs, and critical reflections are logged in `notebooks/LLM_Prompts_Log.md`.
 
 Three core prompt categories were used:
-1. **Prompt 1** — [placeholder: describe what this prompt was used for]
-2. **Prompt 2** — Feature importance interpretation using logistic regression coefficients
-3. **Prompt 3** — [placeholder: describe what this prompt was used for]
+1. **Prompt 1** — Translating technical churn drivers into plain language for a non-technical CEO audience
+2. **Prompt 2** — Generating a reproducible Python preprocessing pipeline for the churn dataset
+3. **Prompt 3** — Converting model feature importance scores into concrete, business-facing action steps
 
 > **GenAI Acknowledgement:** Generative AI tools (including Claude by Anthropic) were used in this project for code generation, insight synthesis, and document drafting. All AI-generated content was reviewed and edited by team members. AI-generated citations were manually verified. Use is acknowledged at slide level in the presentation, in accordance with [TCD GenAI referencing guidelines](https://libguides.tcd.ie/genai/acknowledging-referencing).
 
