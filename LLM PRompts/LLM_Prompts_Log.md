@@ -81,15 +81,28 @@ Target variable: churn (derived from subscription_status == 'cancelled')
 > "Summarise feature importance into actionable business steps"
 
 **Context provided to model:**
-> [Add the feature importance table or chart you passed in — e.g. SHAP values or logistic regression coefficients]
+| | |
+|---|---|
+| Feature                      | Mean |SHAP|
+| preferred_category_home      | 0.3750 |
+| preferred_category_electronics| 0.3522 |
+| country_pakistan             | 0.3368 |
+| country_india                | 0.3228 |
+| country_usa                  | 0.3215 |
+| quantity                     | 0.1546 |
+| unit_price                   | (negative — reduces churn) |
+| Overall churn rate: | 24.6% |
 
 **Output summary:**
-> [Paste or summarise the AI's response here]
+> Based on the feature importance scores, the AI recommended three business actions:
+1. Geographic retention campaigns — prioritise India and Pakistan with localised offers, faster delivery options, or region-specific discounts, as these markets show the highest churn signal across all three models.
+2. Category-specific re-engagement — customers whose preferred category is Home or Electronics should receive targeted win-back campaigns (e.g. price-match guarantees, extended warranties, or personalised product recommendations) as these categories show above-average churn rates.
+3. High-value customer loyalty programme — customers with high quantity and unit price are the most loyal; a VIP or early-access programme would protect this segment before they have a reason to leave.
 
 **Validation & critique:**
 - Outputs were manually verified for accuracy
 - Ensured recommendations were grounded in actual model findings, not generic advice
-- [Note any inaccuracies found or corrections made]
+- One recommendation referenced 'subscription cancellation rates' which is inaccurate for this behavioural churn dataset — corrected to reflect behavioural disengagement language before inclusion in slides.
 
 **Used in:** Slide 7 (Business Recommendations)
 
