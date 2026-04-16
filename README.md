@@ -25,7 +25,6 @@
 ├── notebooks/
 │   ├── ML1_EDA_LogisticRegression_v2.py                     # EDA + Logistic Regression baseline
 │   ├── ML2_churn_explainable_pipeline.ipynb                 # Random Forest + XGBoost models
-│   └── LLM_Prompts_Log.md                                   # All prompts, inputs, and outputs
 ├── charts/
 │   ├── chart1_churn_distribution.png
 │   ├── chart2_churn_by_country.png
@@ -38,7 +37,7 @@
 ├── presentation/
 │   └── Group_Churn_Presentation.pptx                        # Final 10-slide deck
 ├── LLM PRompts/
-    └── LLM_Prompts_Log.md                                   # All prompts, inputs, and outputs
+│   └── LLM_Prompts_Log.md                                   # All prompts, inputs, and outputs
 └── README.md
 ```
 
