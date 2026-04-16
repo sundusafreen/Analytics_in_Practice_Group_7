@@ -24,7 +24,7 @@
 │   └── E_Commerce_Customer_Insights_and_Churn_Dataset.csv   # Dataset subset
 ├── notebooks/
 │   ├── ML1_EDA_LogisticRegression_v2.py                     # EDA + Logistic Regression baseline
-│   ├── ML2_RandomForest_XGBoost.py                          # Random Forest + XGBoost models
+│   ├── ML2_churn_explainable_pipeline.ipynb                 # Random Forest + XGBoost models
 │   └── LLM_Prompts_Log.md                                   # All prompts, inputs, and outputs
 ├── charts/
 │   ├── chart1_churn_distribution.png
@@ -37,6 +37,8 @@
 │   └── chart8_feature_importance_lr.png
 ├── presentation/
 │   └── Group_Churn_Presentation.pptx                        # Final 10-slide deck
+├── LLM PRompts/
+    └── LLM_Prompts_Log.md                                   # All prompts, inputs, and outputs
 └── README.md
 ```
 
@@ -133,9 +135,13 @@ Three core prompt categories were used:
 
 > All references were manually verified by team members. AI-generated citations were checked for accuracy before inclusion, per TCD guidelines.
 
+- [1] Reichheld, F. F., & Schefter, P. (2000). E-loyalty: Your secret weapon on the web. *Harvard Business Review*, 78(4), 105–113.
+- [2] Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system. *Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '16)*, San Francisco, CA, pp. 785–794.
+- [3] Alshamsi, A. et al. (2024). E-commerce churn prediction for analyzing customer behaviour based on machine learning. In *Lecture Notes in Business Information Processing*. Springer.
+- [4] Hu, W. et al. (2019). A hybrid prediction model for e-commerce customer churn based on logistic regression and extreme gradient boosting algorithm. *ISI Journal*, 24(5).
+- [5] Lundberg, S. M., & Lee, S.-I. (2017). A unified approach to interpreting model predictions. *Advances in Neural Information Processing Systems (NeurIPS)*, 30, 4766–4777.
+- [6] Fawcett, T. (2006). An introduction to ROC analysis. *Pattern Recognition Letters*, 27(8), 861–874.
 - Zahid, N. (n.d.). *E-Commerce Customer Insights and Churn Dataset*. Kaggle. https://www.kaggle.com/datasets/nabihazahid/e-commerce-customer-insights-and-churn-dataset
-- Lundberg, S. M., & Lee, S.-I. (2017). A unified approach to interpreting model predictions. *Advances in Neural Information Processing Systems*, 30.
-- [Add further references as needed]
 
 ---
 
