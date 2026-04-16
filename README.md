@@ -113,7 +113,7 @@ All charts will be saved automatically to the `charts/` folder.
 | Bin Yu | Visualization Expert |
 | Ummea Salma Hossain | Visualization Expert |
 | Sundus Afreen | Project Manager / Storyteller |
-| Naija Budhiraija | Project Manager / Storyteller |
+| Naija Budhiraja | Project Manager / Storyteller |
 
 ---
 
