@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboos
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<YOUR-REPO-LINK-HERE>
+   git clone https://github.com/<(https://github.com/sundusafreen/Analytics_in_Practice_Group_7)>
    cd <repo-name>
    ```
 
@@ -71,7 +71,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboos
 
 4. Run the Random Forest and XGBoost models:
    ```bash
-   python notebooks/ML2_RandomForest_XGBoost.py
+   python notebooks/ML2_churn_explainable_pipeline.py
    ```
 
 All charts will be saved automatically to the `charts/` folder.
