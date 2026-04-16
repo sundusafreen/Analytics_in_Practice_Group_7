@@ -148,7 +148,6 @@ Three core prompt categories were used:
 - [4] Hu, W. et al. (2019). A hybrid prediction model for e-commerce customer churn based on logistic regression and extreme gradient boosting algorithm. *ISI Journal*, 24(5).
 - [5] Lundberg, S. M., & Lee, S.-I. (2017). A unified approach to interpreting model predictions. *Advances in Neural Information Processing Systems (NeurIPS)*, 30, 4766–4777.
 - [6] Fawcett, T. (2006). An introduction to ROC analysis. *Pattern Recognition Letters*, 27(8), 861–874.
-- Zahid, N. (n.d.). *E-Commerce Customer Insights and Churn Dataset*. Kaggle. https://www.kaggle.com/datasets/nabihazahid/e-commerce-customer-insights-and-churn-dataset
 
 ---
 
