@@ -78,6 +78,13 @@ All charts will be saved automatically to the `charts/` folder.
 
 ---
 
+## Interactive Dashboard
+
+Explore the full interactive churn analysis dashboard built by Bin Yu and Ummea Salma Hossain:
+🔗 https://public.tableau.com/app/profile/bin.yu4679/viz/4_17760011003540/ChurnIntelligenceDashboard
+
+---
+
 ## Key Findings
 
 - **Overall churn rate:** 24.6% (493 out of 2,000 customers)
