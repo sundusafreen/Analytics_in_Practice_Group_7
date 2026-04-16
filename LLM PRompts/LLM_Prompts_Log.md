@@ -18,13 +18,15 @@
 > "Explain churn drivers for a non-technical CEO (no jargon)"
 
 **Context provided to model:**
-country_pakistan:          0.694
-preferred_category_home:   0.665
-country_india:             0.642
-country_usa:               0.625
-preferred_category_electronics: 0.572
-quantity:                 -0.205
-unit_price:               -0.136
+| | |
+|---|---|
+| country_pakistan:    |       0.694 | 
+| preferred_category_home: |   0.665 | 
+| country_india:        |      0.642 | 
+| country_usa:        |        0.625 | 
+| preferred_category_electronics: 0.572 | 
+| quantity:         |         -0.205 | 
+| unit_price:      |          -0.136 | 
 
 **Output summary:**
 > Our analysis of 2,000 customers shows that where a customer is based and what they shop for are the two biggest signals that they might stop buying from us.
